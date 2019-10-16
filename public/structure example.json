@@ -1,0 +1,22 @@
+{
+    "body": {
+        "type": "div", 
+        "class": "container", 
+        "childs": {
+            "type": "div", 
+            "class": "row", 
+            "childs": {
+                "type": "div", 
+                "class": "col-md-12",
+                "childs": [{
+                    "type": "a", 
+                    "href": "10.200.247.222",
+                    "text": "url"
+                },{
+                    "type": "p", 
+                    "text": "something"
+                }]
+            }
+        }
+    }
+}
